@@ -1,0 +1,3 @@
+https://radicaltechnologies.melimu.com/course/view.php?id=1379
+
+So Can i say Persistance volume is a total storage available in a cluster and Persistance volume claim is a request made my pod to use the amount of storage from a pod.
